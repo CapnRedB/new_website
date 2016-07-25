@@ -24,8 +24,11 @@ h6 {
 .topnav {
     font-size: 20px;
 		background-color: #6441A4;
+		color: white !important;
 }
-
+div > ul > li > a:hover{
+	color:grey !important;
+}
 .lead {
     font-size: 18px;
     font-weight: 400;
